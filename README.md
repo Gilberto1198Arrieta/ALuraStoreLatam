@@ -63,5 +63,4 @@ Gracias a herramientas como **Python, Pandas y Matplotlib,** este proyecto ofrec
 
 👨‍💻 Desarrollado por: **Gilberto Arrieta**
 
-
 📚 Curso: Formación en Data Science – **Alura Latam**
