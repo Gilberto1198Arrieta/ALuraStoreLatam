@@ -62,4 +62,6 @@ Tras evaluar múltiples factores, se recomienda **vender la Tienda 4**, ya que p
 Gracias a herramientas como **Python, Pandas y Matplotlib,** este proyecto ofrece una solución basada en evidencia, clara y accionable
 
 👨‍💻 Desarrollado por: **Gilberto Arrieta**
+
+
 📚 Curso: Formación en Data Science – **Alura Latam**
